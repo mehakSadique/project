@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/Home.css";
 import AnimeCard from "../components/AnimeCard";
-
+/* Allows user to search*/
 function Home(props) {
   return (
     <main>
